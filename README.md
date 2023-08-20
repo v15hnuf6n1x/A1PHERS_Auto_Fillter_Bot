@@ -120,8 +120,9 @@ leave  - to leave from a chat.
 disable  -  do disable a chat.
 enable - re-enable chat.
 ban  - to ban a user.
+unban  - to unban a user.
 logs - to get the rescent errors
-stats - to get status of files in db.unban  - to unban a user.
+stats - to get status of files in db.
 broadcast - to broadcast a message to all Eva Maria users
 
 
