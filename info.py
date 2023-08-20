@@ -82,10 +82,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://youtu.be/A6_YkUKgbgo"
+DOWNLOAD_TEXT_URL = "https://youtu.be/"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "Subscribe"
-CAPTION_BUTTON_URL = "https://youtube.com/@GreyMattersYT"
+CAPTION_BUTTON = "Request a Movie to upload "
+CAPTION_BUTTON_URL = "https://t.me/C0nt4ct_bot"
 
    # Auto Delete For Bot Sending Files #
