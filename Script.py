@@ -11,7 +11,7 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://omegalinks.in/ref/GreyMatter6458')
+    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 't.me/Mr_V_bots')
     START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 Im a Movie Search Bot I can share Movies and Series 😁.</b>
 
 <i>ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ᴏʀ ᴄʟɪᴄᴋ ᴛʜᴇ ᴍᴇɴᴜ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ</i>''')
