@@ -12,18 +12,18 @@ def is_enabled(value, default):
 
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 't.me/Mr_V_bots')
-    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 Im a Movie Search Bot I can share Movies and Series 😁.</b>
+    START_TXT = environ.get("START_TXT", '''<b>ʜᴇʟʟᴏ {} 👋 ɪᴍ ᴀ ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ ʙᴏᴛ ɪ ᴄᴀɴ sʜᴀʀᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs .</b>
 
 <i>ADD ME TO YOUR GROUP TO SEE MY POWER OR CLICK THE MENU BUTTON BELOW</i>''')
     HELP_TXT = """HEY  {}
 HERE IS MY HELP COMMANDS."""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/A1p_autofilter_bot><b>Alphers_Autof_ilter_Bot</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/@v15hnuf6n1x><b>V15hnu</b></a>\n
-📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/a1pher><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🌟 ᴠᴇʀsɪᴏɴ : ᴠ 1.0\n</b></i>"""
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/A1p_autofilter_bot><b>ᴀʟᴘʜᴇʀs_ᴀᴜᴛᴏғɪʟᴛᴇʀ_ʙᴏᴛ</b></a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/@v15hnuf6n1x><b></b>V15hnu</a>\n
+📝 ʟᴀɴɢᴜᴀɢᴇ  : <a href=https://docs.pyrogram.org/index><b></b>ᴘʏʀᴏɢʀᴀᴍ</a>
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=https://www.python.org/><b></b>ᴘʏᴛʜᴏɴ</a>\n
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=https://render.com><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/a1pher><b></b>😎 ALPHER 😎</a>\n
+🌟 ᴠᴇʀsɪᴏɴ : ᴠ 3.0\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
 » Contact Me Via Bot <b>@ItzV15hnu_bot</b>"""
