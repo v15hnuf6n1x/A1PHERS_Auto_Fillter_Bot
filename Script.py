@@ -14,9 +14,9 @@ class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 't.me/Mr_V_bots')
     START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 Im a Movie Search Bot I can share Movies and Series 😁.</b>
 
-<i>ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ᴏʀ ᴄʟɪᴄᴋ ᴛʜᴇ ᴍᴇɴᴜ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ</i>''')
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+<i>ADD ME TO YOUR GROUP TO SEE MY POWER OR CLICK THE MENU BUTTON BELOW</i>''')
+    HELP_TXT = """HEY  {}
+HERE IS MY HELP COMMANDS."""
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/A1p_autofilter_bot><b>Alphers_Autof_ilter_Bot</b></a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/@v15hnuf6n1x><b>V15hnu</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
@@ -26,7 +26,7 @@ class script(object):
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 1.0\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
-» Contact Me Via Bot @ItzV15hnu_bot<b>"""
+» Contact Me Via Bot <b>@ItzV15hnu_bot</b>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
