@@ -8,5 +8,5 @@ else
 fi
 cd /Eva
 pip3 install -U -r requirements.txt
-echo "Starting Bot...."
+echo "A1PHERS_Auto_Fillter_Bot is Starting...."
 python3 bot.py
